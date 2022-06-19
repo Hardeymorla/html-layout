@@ -1,0 +1,59 @@
+
+.flexbox-container{
+    display: flex;
+    margin: 8%;
+    height: 350px;
+}
+
+.sedan{
+    color: white;
+    background-color:orange ;
+}
+
+.suv{
+    background-color:mediumseagreen;
+    color: white;
+}
+
+.luxury{
+    background-color:seagreen;
+    color: white;
+}
+
+.h1{
+    margin: 50px;
+}
+
+.p{
+    margin: 50px;
+}
+
+.button1 {
+    border-radius: 30px;
+    width: 110px;
+    height: 35px;
+    margin: 50px;
+    
+}
+.button2 {
+    border-radius: 30px;
+    width: 110px;
+    height: 35px;
+    margin: 50px;
+}
+.button3 {
+    border-radius: 30px;
+    width: 110px;
+    height: 35px;
+    margin: 50px;
+}
+
+.button1 a{
+    color:orange ;
+}
+.button2 a{
+    color:mediumseagreen ;
+}
+.button3 a{
+    color:seagreen ;
+}
